@@ -1,4 +1,4 @@
-# Superstore Sales Report
+# Superstore Sales Dashboard
 
 This project showcases an interactive Sales Analysis Dashboard built using Power BI, designed to explore and visualize key business performance indicators including Total Sales, Profitability, Customer Behavior, Product Performance, and Segment-wise Insights.
 
