@@ -4,9 +4,7 @@ This project showcases an interactive Sales Analysis Dashboard built using Power
 
 ✅ Key Features
 📌 KPIs Displayed
-Total Sales: $2M
-
-Total Profit: $286K
+Total Sales and Total Profit
 
 🔍 Filters & Slicers
 Region Selector: Central, East, South, West
