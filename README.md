@@ -1,65 +1,29 @@
 # Superstore Sales Dashboard
 
-This project showcases an interactive Sales Analysis Dashboard built using Power BI, designed to explore and visualize key business performance indicators including Total Sales, Profitability, Customer Behavior, Product Performance, and Segment-wise Insights.
+📊 Overview
+This Power BI dashboard is built using the Superstore dataset to analyze and visualize sales performance across various business dimensions. It is designed to support decision-making for business leaders by highlighting high-performing products, customers, and trends.
 
-✅ Key Features
-📌 KPIs Displayed
-Total Sales and Total Profit
+🧠 Dashboard Breakdown 
+🔍 Visual	📌 Description
+KPI Cards	: Displays Total Sales and Total Profit across the entire dataset — these two are key performance indicators.
+Monthly Sales Trend :	Visualizes month-wise total sales, helping identify seasonal patterns or demand fluctuations.
+Top 10 Products by Sales	: Table lists the top 10 most selling products based on sales value.
+Top 5 Customers by Quantity : Horizontal bar chart shows the top 5 customers who bought the highest total quantity of products.
+Segment-wise Sales	: Pie chart displays the distribution of sales across customer segments (Consumer, Corporate, Home Office).
+Profit by Sub-Category	: Compares profits across different sub-categories, helping identify what’s profitable or underperforming.
+Quantity by Category :	Funnel chart visualizes the quantity sold per product category.
+Slicers :	Added for Category, Sub-Category, year and region to enable targeted analysis.
 
-🔍 Filters & Slicers
-Region Selector: Central, East, South, West
+🎯 Key Focus
+Prioritized visuals and metrics.
 
-Year Range: 2014 to 2017 (via slider)
+Optimized layout with consistent formatting and color-coded categories.
 
-Category & Sub-Category Filters: For focused analysis
+Interactive design to allow dynamic filtering and deep dives.
 
-📦 Product Sales Table
-Shows top-performing products by total sales
+📁 Project Files
+superstore_dashboard.pbix – Power BI file
 
-👥 Customer Behavior Analysis
-Line chart visualizing Quantity Ordered by Customers to highlight high-volume buyers
+superstore_dashboard.pdf – Dashboard snapshots
 
-🧩 Segment-wise Sales Distribution
-Pie chart comparing Consumer, Corporate, and Home Office segments
-
-💰 Profitability Analysis
-Bar chart showing Profit by Sub-Category, including loss-making items like Tables and Bookcases
-
-📈 Time-Series Analysis
-Monthly sales trends with spikes observed in October and December
-
-🗂 Quantity by Category
-Horizontal bar chart displaying order quantity for Office Supplies, Furniture, and Technology
-
-📂 Dataset
-This dashboard is built using the popular Sample Superstore Dataset, which includes:
-
-Order IDs, Dates, and Shipping Details
-
-Product Categories & Sub-Categories
-
-Sales, Profit, and Quantity
-
-Customer Names and Segments
-
-Regional Distribution
-
-🛠 Tools & Techniques
-Power BI Desktop
-
-DAX Measures for KPIs and calculations
-
-Slicers for interactivity
-
-Visuals used: Bar Charts, Line Charts, Pie Charts, and Tables
-
-💡 Key Business Insights
-Consumer segment drives the highest revenue
-
-Office Supplies has the highest order volume
-
-Top products include Canon imageCLASS 2200 and Fellowes PB500
-
-Copiers and Phones generate the highest profits
-
-Tables and Bookcases are operating at a loss
+superstore.csv – Cleaned dataset
