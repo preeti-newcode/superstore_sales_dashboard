@@ -1,6 +1,6 @@
 # Superstore Sales Dashboard
 
-📊 Overview
+#📊 Overview
 This Power BI dashboard is built using the Superstore dataset to analyze and visualize sales performance across various business dimensions. It is designed to support decision-making for business leaders by highlighting high-performing products, customers, and trends.
 
 🧠 Dashboard Breakdown 
