@@ -39,3 +39,8 @@ superstore_dashboard.pbix – Power BI file
 superstore_dashboard.pdf – Dashboard snapshots
 
 superstore.csv – Cleaned dataset
+
+
+
+Watch the Sales Dashboard Explanation :
+https://drive.google.com/file/d/1HgFKQ-jnITIxGE7ci19EpZu9Gt3axAIb/view?usp=drive_link 
